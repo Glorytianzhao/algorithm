@@ -50,7 +50,7 @@ public class LoopQueue<E> implements Queue<E> {
     public E dequeue(){
 
         if(isEmpty())
-            throw new IllegalArgumentException("Cannot dequeue from an empty queue.");
+            throw new IllegalArgumentException("Cannot dequeue from an empty algorithm.queue.");
 
         E ret = data[front];
         data[front] = null;

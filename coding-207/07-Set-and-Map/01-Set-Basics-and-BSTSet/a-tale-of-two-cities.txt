@@ -3797,7 +3797,7 @@ There ought to have been a tranquil bark in such an anchorage, and
 there was. The Doctor occupied two floors of a large stiff house, where
 several callings purported to be pursued by day, but whereof little was
 audible any day, and which was shunned by all of them at night. In
-a building at the back, attainable by a courtyard where a plane-tree
+a building at the back, attainable by a courtyard where a plane-algorithm.tree
 rustled its green leaves, church-organs claimed to be made, and silver
 to be chased, and likewise gold to be beaten by some mysterious giant
 who had a golden arm starting out of the wall of the front hall--as if
@@ -3808,7 +3808,7 @@ a counting-house below, was ever heard or seen. Occasionally, a stray
 workman putting his coat on, traversed the hall, or a stranger peered
 about there, or a distant clink was heard across the courtyard, or a
 thump from the golden giant. These, however, were only the exceptions
-required to prove the rule that the sparrows in the plane-tree behind
+required to prove the rule that the sparrows in the plane-algorithm.tree behind
 the house, and the echoes in the corner before it, had their own way
 from Sunday morning unto Saturday night.
 
@@ -3859,7 +3859,7 @@ he detected all around him, walked from one to another. The first was
 the best room, and in it were Lucie's birds, and flowers, and books,
 and desk, and work-table, and box of water-colours; the second was
 the Doctor's consulting-room, used also as the dining-room; the third,
-changingly speckled by the rustle of the plane-tree in the yard, was the
+changingly speckled by the rustle of the plane-algorithm.tree in the yard, was the
 Doctor's bedroom, and there, in a corner, stood the disused shoemaker's
 bench and tray of tools, much as it had stood on the fifth floor of the
 dismal house by the wine-shop, in the suburb of Saint Antoine in Paris.
@@ -4116,17 +4116,17 @@ Miss Pross, responding to Ladybird's pleasant face and pleasant efforts
 to please her, unbent exceedingly; so the dinner was very pleasant, too.
 
 It was an oppressive day, and, after dinner, Lucie proposed that the
-wine should be carried out under the plane-tree, and they should sit
+wine should be carried out under the plane-algorithm.tree, and they should sit
 there in the air. As everything turned upon her, and revolved about her,
-they went out under the plane-tree, and she carried the wine down for
+they went out under the plane-algorithm.tree, and she carried the wine down for
 the special benefit of Mr. Lorry. She had installed herself, some
 time before, as Mr. Lorry's cup-bearer; and while they sat under the
-plane-tree, talking, she kept his glass replenished. Mysterious backs
-and ends of houses peeped at them as they talked, and the plane-tree
+plane-algorithm.tree, talking, she kept his glass replenished. Mysterious backs
+and ends of houses peeped at them as they talked, and the plane-algorithm.tree
 whispered to them in its own way above their heads.
 
 Still, the Hundreds of people did not present themselves. Mr. Darnay
-presented himself while they were sitting under the plane-tree, but he
+presented himself while they were sitting under the plane-algorithm.tree, but he
 was only One.
 
 Doctor Manette received him kindly, and so did Lucie. But, Miss Pross
@@ -4143,7 +4143,7 @@ likeness.
 
 He had been talking all day, on many subjects, and with unusual
 vivacity. “Pray, Doctor Manette,” said Mr. Darnay, as they sat under the
-plane-tree--and he said it in the natural pursuit of the topic in hand,
+plane-algorithm.tree--and he said it in the natural pursuit of the topic in hand,
 which happened to be the old buildings of London--“have you seen much of
 the Tower?”
 
@@ -6955,7 +6955,7 @@ sat on a low bench, stooping forward and very busy, making shoes.
 
 No white-haired man was there now; but, the three men were there who had
 gone out of the wine-shop singly. And between them and the white-haired
-man afar off, was the one small link, that they had once looked in at
+man afar off, was the one small algorithm.link, that they had once looked in at
 him through the chinks in the wall.
 
 Defarge closed the door carefully, and spoke in a subdued voice:
@@ -7843,12 +7843,12 @@ XVII. One Night
 
 Never did the sun go down with a brighter glory on the quiet corner in
 Soho, than one memorable evening when the Doctor and his daughter sat
-under the plane-tree together. Never did the moon rise with a milder
+under the plane-algorithm.tree together. Never did the moon rise with a milder
 radiance over great London, than on that night when it found them still
-seated under the tree, and shone upon their faces through its leaves.
+seated under the algorithm.tree, and shone upon their faces through its leaves.
 
 Lucie was to be married to-morrow. She had reserved this last evening
-for her father, and they sat alone under the plane-tree.
+for her father, and they sat alone under the plane-algorithm.tree.
 
 “You are happy, my dear father?”
 
@@ -7857,7 +7857,7 @@ for her father, and they sat alone under the plane-tree.
 They had said little, though they had been there a long time. When it
 was yet light enough to work and read, she had neither engaged herself
 in her usual work, nor had she read to him. She had employed herself in
-both ways, at his side under the tree, many and many a time; but, this
+both ways, at his side under the algorithm.tree, many and many a time; but, this
 time was not quite like any other, and nothing could make it so.
 
 “And I am very happy to-night, dear father. I am deeply happy in the
@@ -8042,7 +8042,7 @@ She timidly laid her hand on his dear breast, and put up a prayer that
 she might ever be as true to him as her love aspired to be, and as his
 sorrows deserved. Then, she withdrew her hand, and kissed his lips once
 more, and went away. So, the sunrise came, and the shadows of the leaves
-of the plane-tree moved upon his face, as softly as her lips had moved
+of the plane-algorithm.tree moved upon his face, as softly as her lips had moved
 in praying for him.
 
 
@@ -8304,7 +8304,7 @@ As before, he repeated, “Out?”
 This time, Mr. Lorry feigned to go out when he could extract no answer
 from him, and, after remaining absent for an hour, returned. In the
 meanwhile, the Doctor had removed to the seat in the window, and had
-sat there looking down at the plane-tree; but, on Mr. Lorry's return, he
+sat there looking down at the plane-algorithm.tree; but, on Mr. Lorry's return, he
 slipped away to his bench.
 
 The time went very slowly on, and Mr. Lorry's hope darkened, and his
@@ -8861,7 +8861,7 @@ echoes of years none but friendly and soothing sounds. Her husband's
 step was strong and prosperous among them; her father's firm and equal.
 Lo, Miss Pross, in harness of string, awakening the echoes, as an
 unruly charger, whip-corrected, snorting and pawing the earth under the
-plane-tree in the garden!
+plane-algorithm.tree in the garden!
 
 Even when there were sounds of sorrow among the rest, they were not
 harsh nor cruel. Even when golden hair, like her own, lay in a halo on a
@@ -9769,7 +9769,7 @@ days--became impatient for an interview with him, and, surrounding his
 house, summoned him to come forth for personal conference. Whereupon,
 Monsieur Gabelle did heavily bar his door, and retire to hold counsel
 with himself. The result of that conference was, that Gabelle again
-withdrew himself to his housetop behind his stack of chimneys; this time
+withdrew himself to his housetop behind his algorithm.stack of chimneys; this time
 resolved, if his door were broken in (he was a small Southern man
 of retaliative temperament), to pitch himself head foremost over the
 parapet, and crush a man or two below.
@@ -9945,7 +9945,7 @@ delay.”
 to say to any of them. I intend to take Jerry. Jerry has been my
 bodyguard on Sunday nights for a long time past and I am used to him.
 Nobody will suspect Jerry of being anything but an English bull-dog, or
-of having any design in his head but to fly at anybody who touches his
+of having any entendAndDecorateAndProxy in his head but to fly at anybody who touches his
 master.”
 
 “I must say again that I heartily admire your gallantry and
@@ -10461,7 +10461,7 @@ unreal, not the least was the seeming rarity of sleep. After long and
 lonely spurring over dreary roads, they would come to a cluster of poor
 cottages, not steeped in darkness, but all glittering with lights, and
 would find the people, in a ghostly manner in the dead of the night,
-circling hand in hand round a shrivelled tree of Liberty, or all drawn
+circling hand in hand round a shrivelled algorithm.tree of Liberty, or all drawn
 up together singing a Liberty song. Happily, however, there was sleep in
 Beauvais that night to help them out of it and they passed on once more
 into solitude and loneliness: jingling through the untimely cold and
@@ -12513,7 +12513,7 @@ with the name--and with the face.”
 “I told you you had a remarkable face, Mr. Barsad,” observed Carton,
 coolly. “Pray sit down.”
 
-As he took a chair himself, he supplied the link that Mr. Lorry wanted,
+As he took a chair himself, he supplied the algorithm.link that Mr. Lorry wanted,
 by saying to him with a frown, “Witness at that trial.” Mr. Lorry
 immediately remembered, and regarded his new visitor with an undisguised
 look of abhorrence.
@@ -13379,7 +13379,7 @@ X. The Substance of the Shadow
 “I, Alexandre Manette, unfortunate physician, native of Beauvais, and
 afterwards resident in Paris, write this melancholy paper in my doleful
 cell in the Bastille, during the last month of the year, 1767. I write
-it at stolen intervals, under every difficulty. I design to secrete it
+it at stolen intervals, under every difficulty. I entendAndDecorateAndProxy to secrete it
 in the wall of the chimney, where I have slowly and laboriously made a
 place of concealment for it. Some pitying hand may find it there, when I
 and my sorrows are dust.
@@ -14624,7 +14624,7 @@ had still exacted on the morning of their marriage. He entreated her,
 for her father's sake, never to seek to know whether her father had
 become oblivious of the existence of the paper, or had had it recalled
 to him (for the moment, or for good), by the story of the Tower, on
-that old Sunday under the dear old plane-tree in the garden. If he had
+that old Sunday under the dear old plane-algorithm.tree in the garden. If he had
 preserved any definite remembrance of it, there could be no doubt that
 he had supposed it destroyed with the Bastille, when he had found no
 mention of it among the relics of prisoners which the populace had
@@ -16219,7 +16219,7 @@ Project Gutenberg-tm depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
+algorithm.array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
 

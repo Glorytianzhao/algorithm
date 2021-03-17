@@ -15,7 +15,7 @@ import java.util.List;
 
 class Solution {
 
-    /// Definition for a binary tree node.
+    /// Definition for a binary algorithm.tree node.
     private class TreeNode {
         int val;
         TreeNode left;
@@ -92,7 +92,7 @@ class Solution {
         @Override
         public E dequeue(){
             if(isEmpty())
-                throw new IllegalArgumentException("Cannot dequeue from an empty queue.");
+                throw new IllegalArgumentException("Cannot dequeue from an empty algorithm.queue.");
 
             Node retNode = head;
             head = head.next;

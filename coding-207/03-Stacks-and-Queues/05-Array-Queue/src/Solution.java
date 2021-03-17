@@ -14,7 +14,7 @@ import javafx.util.Pair;
 
 class Solution {
 
-    /// Definition for a binary tree node.
+    /// Definition for a binary algorithm.tree node.
     private class TreeNode {
         int val;
         TreeNode left;

@@ -58,7 +58,7 @@ public class LinkedListQueue<E> implements Queue<E> {
     @Override
     public E dequeue(){
         if(isEmpty())
-            throw new IllegalArgumentException("Cannot dequeue from an empty queue.");
+            throw new IllegalArgumentException("Cannot dequeue from an empty algorithm.queue.");
 
         Node retNode = head;
         head = head.next;

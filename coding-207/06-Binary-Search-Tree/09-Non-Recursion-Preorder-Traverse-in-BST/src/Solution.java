@@ -11,7 +11,7 @@ import java.util.Stack;
 
 public class Solution {
 
-    // Definition for a binary tree node.
+    // Definition for a binary algorithm.tree node.
     public class TreeNode {
         int val;
         TreeNode left;

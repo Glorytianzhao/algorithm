@@ -14,7 +14,7 @@ import javafx.util.Pair;
 
 class Solution {
 
-    /// Definition for a binary tree node.
+    /// Definition for a binary algorithm.tree node.
     private class TreeNode {
         int val;
         TreeNode left;
@@ -74,7 +74,7 @@ class Solution {
         public E dequeue(){
 
             if(isEmpty())
-                throw new IllegalArgumentException("Cannot dequeue from an empty queue.");
+                throw new IllegalArgumentException("Cannot dequeue from an empty algorithm.queue.");
 
             E ret = data[front];
             data[front] = null;

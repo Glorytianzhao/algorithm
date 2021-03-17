@@ -9,8 +9,8 @@ import java.util.Stack;
 // Non-Recursive
 // Using a tag to record whether the node has been visited
 //
-// Time Complexity: O(n), n is the node number in the tree
-// Space Complexity: O(h), h is the height of the tree
+// Time Complexity: O(n), n is the node number in the algorithm.tree
+// Space Complexity: O(h), h is the height of the algorithm.tree
 public class Solution1 {
 
     private class TagNode{

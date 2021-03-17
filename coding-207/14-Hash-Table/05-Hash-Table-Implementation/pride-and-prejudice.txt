@@ -83,7 +83,7 @@ five thousand a year. What a fine thing for our girls!”
 “My dear Mr. Bennet,” replied his wife, “how can you be so tiresome! You
 must know that I am thinking of his marrying one of them.”
 
-“Is that his design in settling here?”
+“Is that his entendAndDecorateAndProxy in settling here?”
 
 “Design! Nonsense, how can you talk so! But it is very likely that he
 _may_ fall in love with one of them, and therefore you must visit him as
@@ -468,7 +468,7 @@ what I think.”
 “I know you do; and it is _that_ which makes the wonder. With _your_
 good sense, to be so honestly blind to the follies and nonsense of
 others! Affectation of candour is common enough--one meets with it
-everywhere. But to be candid without ostentation or design--to take the
+everywhere. But to be candid without ostentation or entendAndDecorateAndProxy--to take the
 good of everybody's character and make it still better, and say nothing
 of the bad--belongs to you alone. And so you like this man's sisters,
 too, do you? Their manners are not equal to his.”
@@ -714,7 +714,7 @@ falling in love as much as she chooses.”
 “Your plan is a good one,” replied Elizabeth, “where nothing is in
 question but the desire of being well married, and if I were determined
 to get a rich husband, or any husband, I dare say I should adopt it. But
-these are not Jane's feelings; she is not acting by design. As yet,
+these are not Jane's feelings; she is not acting by entendAndDecorateAndProxy. As yet,
 she cannot even be certain of the degree of her own regard nor of its
 reasonableness. She has known him only a fortnight. She danced four
 dances with him at Meryton; she saw him one morning at his own house,
@@ -1648,7 +1648,7 @@ He was silent.
 
 “Tell your sister I am delighted to hear of her improvement on the harp;
 and pray let her know that I am quite in raptures with her beautiful
-little design for a table, and I think it infinitely superior to Miss
+little entendAndDecorateAndProxy for a table, and I think it infinitely superior to Miss
 Grantley's.”
 
 “Will you give me leave to defer your raptures till I write again? At
@@ -1768,7 +1768,7 @@ rather offended, and therefore checked her laugh. Miss Bingley warmly
 resented the indignity he had received, in an expostulation with her
 brother for talking such nonsense.
 
-“I see your design, Bingley,” said his friend. “You dislike an argument,
+“I see your entendAndDecorateAndProxy, Bingley,” said his friend. “You dislike an argument,
 and want to silence this.”
 
 “Perhaps I do. Arguments are too much like disputes. If you and Miss
@@ -2083,7 +2083,7 @@ very well. Against staying longer, however, Elizabeth was positively
 resolved--nor did she much expect it would be asked; and fearful, on the
 contrary, as being considered as intruding themselves needlessly long,
 she urged Jane to borrow Mr. Bingley's carriage immediately, and at
-length it was settled that their original design of leaving Netherfield
+length it was settled that their original entendAndDecorateAndProxy of leaving Netherfield
 that morning should be mentioned, and the request made.
 
 The communication excited many professions of concern; and enough was
@@ -3662,7 +3662,7 @@ dissemble; my attentions have been too marked to be mistaken. Almost as
 soon as I entered the house, I singled you out as the companion of
 my future life. But before I am run away with by my feelings on this
 subject, perhaps it would be advisable for me to state my reasons for
-marrying--and, moreover, for coming into Hertfordshire with the design
+marrying--and, moreover, for coming into Hertfordshire with the entendAndDecorateAndProxy
 of selecting a wife, as I certainly did.”
 
 The idea of Mr. Collins, with all his solemn composure, being run away
@@ -4210,7 +4210,7 @@ character, for it led him to escape out of Longbourn House the next
 morning with admirable slyness, and hasten to Lucas Lodge to throw
 himself at her feet. He was anxious to avoid the notice of his cousins,
 from a conviction that if they saw him depart, they could not fail to
-conjecture his design, and he was not willing to have the attempt known
+conjecture his entendAndDecorateAndProxy, and he was not willing to have the attempt known
 till its success might be known likewise; for though feeling almost
 secure, and with reason, for Charlotte had been tolerably encouraging,
 he was comparatively diffident since the adventure of Wednesday.
@@ -4656,9 +4656,9 @@ it does.”
 “And men take care that they should.”
 
 “If it is designedly done, they cannot be justified; but I have no idea
-of there being so much design in the world as some persons imagine.”
+of there being so much entendAndDecorateAndProxy in the world as some persons imagine.”
 
-“I am far from attributing any part of Mr. Bingley's conduct to design,”
+“I am far from attributing any part of Mr. Bingley's conduct to entendAndDecorateAndProxy,”
  said Elizabeth; “but without scheming to do wrong, or to make others
 unhappy, there may be error, and there may be misery. Thoughtlessness,
 want of attention to other people's feelings, and want of resolution,
@@ -5893,7 +5893,7 @@ will of others. My courage always rises at every attempt to intimidate
 me.”
 
 “I shall not say you are mistaken,” he replied, “because you could not
-really believe me to entertain any design of alarming you; and I have
+really believe me to entertain any entendAndDecorateAndProxy of alarming you; and I have
 had the pleasure of your acquaintance long enough to know that you find
 great enjoyment in occasionally professing opinions which in fact are
 not your own.”
@@ -6323,7 +6323,7 @@ people could be meant than those with whom she was connected. There
 could not exist in the world _two_ men over whom Mr. Darcy could have
 such boundless influence. That he had been concerned in the measures
 taken to separate Bingley and Jane she had never doubted; but she had
-always attributed to Miss Bingley the principal design and arrangement
+always attributed to Miss Bingley the principal entendAndDecorateAndProxy and arrangement
 of them. If his own vanity, however, did not mislead him, _he_ was
 the cause, his pride and caprice were the cause, of all that Jane had
 suffered, and still continued to suffer. He had ruined for a while
@@ -6518,7 +6518,7 @@ I thank you for explaining it so fully. My faults, according to this
 calculation, are heavy indeed! But perhaps,” added he, stopping in
 his walk, and turning towards her, “these offenses might have been
 overlooked, had not your pride been hurt by my honest confession of the
-scruples that had long prevented my forming any serious design. These
+scruples that had long prevented my forming any serious entendAndDecorateAndProxy. These
 bitter accusations might have been suppressed, had I, with greater
 policy, concealed my struggles, and flattered you into the belief of
 my being impelled by unqualified, unalloyed inclination; by reason, by
@@ -6697,7 +6697,7 @@ farther that from what passed that evening, my opinion of all parties
 was confirmed, and every inducement heightened which could have led
 me before, to preserve my friend from what I esteemed a most unhappy
 connection. He left Netherfield for London, on the day following, as
-you, I am certain, remember, with the design of soon returning.
+you, I am certain, remember, with the entendAndDecorateAndProxy of soon returning.
 
 “The part which I acted is now to be explained. His sisters' uneasiness
 had been equally excited with my own; our coincidence of feeling was
@@ -6803,7 +6803,7 @@ the guardianship of my mother's nephew, Colonel Fitzwilliam, and myself.
 About a year ago, she was taken from school, and an establishment formed
 for her in London; and last summer she went with the lady who presided
 over it, to Ramsgate; and thither also went Mr. Wickham, undoubtedly by
-design; for there proved to have been a prior acquaintance between him
+entendAndDecorateAndProxy; for there proved to have been a prior acquaintance between him
 and Mrs. Younge, in whose character we were most unhappily deceived; and
 by her connivance and aid, he so far recommended himself to Georgiana,
 whose affectionate heart retained a strong impression of his kindness to
@@ -9054,7 +9054,7 @@ for him and Mrs. F., but no one can throw any blame on them. Our
 distress, my dear Lizzy, is very great. My father and mother believe the
 worst, but I cannot think so ill of him. Many circumstances might make
 it more eligible for them to be married privately in town than to pursue
-their first plan; and even if _he_ could form such a design against a
+their first plan; and even if _he_ could form such a entendAndDecorateAndProxy against a
 young woman of Lydia's connections, which is not likely, can I suppose
 her so lost to everything? Impossible! I grieve to find, however, that
 Colonel F. is not disposed to depend upon their marriage; he shook his
@@ -9272,7 +9272,7 @@ Chapter 47
 drove from the town; “and really, upon serious consideration, I am much
 more inclined than I was to judge as your eldest sister does on the
 matter. It appears to me so very unlikely that any young man should
-form such a design against a girl who is by no means unprotected or
+form such a entendAndDecorateAndProxy against a girl who is by no means unprotected or
 friendless, and who was actually staying in his colonel's family, that I
 am strongly inclined to hope the best. Could he expect that her friends
 would not step forward? Could he expect to be noticed again by the
@@ -9489,7 +9489,7 @@ Bennet in every endeavour for recovering Lydia.
 prepared for the worst, there is no occasion to look on it as certain.
 It is not quite a week since they left Brighton. In a few days more we
 may gain some news of them; and till we know that they are not married,
-and have no design of marrying, do not let us give the matter over as
+and have no entendAndDecorateAndProxy of marrying, do not let us give the matter over as
 lost. As soon as I get to town I shall go to my brother, and make
 him come home with me to Gracechurch Street; and then we may consult
 together as to what is to be done.”
@@ -9713,7 +9713,7 @@ Mrs. Gardiner and the children were to remain in Hertfordshire a few
 days longer, as the former thought her presence might be serviceable
 to her nieces. She shared in their attendance on Mrs. Bennet, and was a
 great comfort to them in their hours of freedom. Their other aunt also
-visited them frequently, and always, as she said, with the design of
+visited them frequently, and always, as she said, with the entendAndDecorateAndProxy of
 cheering and heartening them up--though, as she never came without
 reporting some fresh instance of Wickham's extravagance or irregularity,
 she seldom went away without leaving them more dispirited than she found
@@ -10689,7 +10689,7 @@ of leaving Wickham. She was sure they should be married some time or
 other, and it did not much signify when. Since such were her feelings,
 it only remained, he thought, to secure and expedite a marriage, which,
 in his very first conversation with Wickham, he easily learnt had never
-been _his_ design. He confessed himself obliged to leave the regiment,
+been _his_ entendAndDecorateAndProxy. He confessed himself obliged to leave the regiment,
 on account of some debts of honour, which were very pressing; and
 scrupled not to lay all the ill-consequences of Lydia's flight on her
 own folly alone. He meant to resign his commission immediately; and as
@@ -11427,7 +11427,7 @@ Elizabeth smiled.
 I assure you that I have now learnt to enjoy his conversation as an
 agreeable and sensible young man, without having a wish beyond it. I am
 perfectly satisfied, from what his manners now are, that he never had
-any design of engaging my affection. It is only that he is blessed
+any entendAndDecorateAndProxy of engaging my affection. It is only that he is blessed
 with greater sweetness of address, and a stronger desire of generally
 pleasing, than any other man.”
 
@@ -13374,7 +13374,7 @@ Project Gutenberg-tm depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
+algorithm.array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
 

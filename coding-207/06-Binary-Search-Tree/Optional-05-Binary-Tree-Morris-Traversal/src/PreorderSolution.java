@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // PreOrder Morris Traversal
-// Time Complexity: O(n), n is the node number in the tree
+// Time Complexity: O(n), n is the node number in the algorithm.tree
 // Space Complexity: O(1)
 public class PreorderSolution {
 

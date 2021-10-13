@@ -1,4 +1,6 @@
-package entendAndDecorateAndProxy;
+package design.structure.decorator;
+
+import design.structure.proxy.Car;
 
 /**
  * Description: 装饰器模式
@@ -8,15 +10,16 @@ package entendAndDecorateAndProxy;
  *
  * @author vic.yang
  */
-public class BenChiQiCar implements Car{
+public class BenChiQiCar implements Car {
 
-    public BenChiQiCar(QICar qiCar) {
-        this.qiCar = qiCar;
+    private Car car;
+
+    public BenChiQiCar(Car car) {
+        this.car = car;
     }
-    private QICar qiCar;
 
     public void run() {
         System.out.println("加上一个助推器");
-        qiCar.run();
+        car.run();
     }
 }

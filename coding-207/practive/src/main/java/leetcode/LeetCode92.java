@@ -40,7 +40,7 @@
 //             *             pre->next=nxt;//pre继续为需要反转头节点的前驱节点
 //             *         }
 //             *         return dummy->next;
-//             */kk
+//             */
 //        }
 //    }
 //

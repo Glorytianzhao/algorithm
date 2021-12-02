@@ -17,9 +17,8 @@ public class LeetCode392 {
 
     public static boolean contains(String s, String t) {
 
-
+        int m = s.length();
         int n = t.length();
-        System.out.println("123");
 
         int i = 0, j = 0;
         while (i < m && j < n) {

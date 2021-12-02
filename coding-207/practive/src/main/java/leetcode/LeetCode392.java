@@ -19,7 +19,7 @@ public class LeetCode392 {
 
 
         int n = t.length();
-        System.out.println(1234);
+        System.out.println("123");
 
         int i = 0, j = 0;
         while (i < m && j < n) {
